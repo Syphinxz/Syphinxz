@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syphinxz
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java in school, HTML on my own time
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'd love to collaberate, always looking to improve my code and help others
 - 📫 How to reach me Email: skyler.hudson05@gmail.com - DISCORD: Syphinxz#4859
 
 <!---
